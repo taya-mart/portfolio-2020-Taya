@@ -1,3 +1,4 @@
+#taya
 
 pg116=("""
 116
@@ -10,7 +11,7 @@ At last Bruce and Andrea arrive at the village.
 "Andrea and I followed your trail to the cafe. The
 police raided the place and uncovered a nest of
 foreign agents code named SPHINX. But by then
-you were gone. Later, when we returned to the
+you were gone. Later, when we returned to thegit 
 hotel, we found Serena's note telling us where
 you were.
 "Unfortunately, I had to tell your parents that
