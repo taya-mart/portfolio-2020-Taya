@@ -1,0 +1,3 @@
+This program is meant to be compared to the game MadLibs.
+The user will  simply follow the directions on screen and provide valid input in order to play. 
+Then the user will read their silly story.

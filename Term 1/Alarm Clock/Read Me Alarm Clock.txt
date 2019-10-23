@@ -1,0 +1,2 @@
+To start the program the user will enter the letter a to start the program.
+The user will then provide input and the alarm will work when the sound is heard.
