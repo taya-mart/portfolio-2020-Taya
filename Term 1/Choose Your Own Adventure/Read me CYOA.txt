@@ -1,0 +1,4 @@
+This program allows the user to go through a story making their own choices.
+
+WARNING: WORK IN PROGRESS!!!
+check code
