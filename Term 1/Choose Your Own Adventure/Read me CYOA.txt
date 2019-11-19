@@ -1,4 +1,6 @@
 This program allows the user to go through a story making their own choices.
 
-WARNING: WORK IN PROGRESS!!!
-check code
+The character is traveling to Egypt with their uncle Bruce to discover the Secrets of the Pyramids.
+Will you survive?
+
+*no ascii art at the moment*

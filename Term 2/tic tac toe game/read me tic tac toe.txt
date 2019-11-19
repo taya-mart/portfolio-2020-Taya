@@ -1,0 +1,3 @@
+This game is a copy of the traditional tic-tac-toe game.
+To play, the player must follow the instructions and provide their move.
+Can you win the computer?
