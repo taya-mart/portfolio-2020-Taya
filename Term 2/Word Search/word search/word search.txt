@@ -1,0 +1,40 @@
+python
+what programming language are we learning in this class?
+binary
+what computer language consists of 0s and 1s?
+IDLE
+which IDE comes pre-downloaded with Python?
+integers
+what data type are whole numbers?
+floating point
+what data type are numbers with decimals?
+boolean
+what data type has only 2 possible values being True or False?
+string
+what data type can store a line of text or individual characters and must be wrapped in quotes?
+variables
+where do programs store specific data values in?
+statement
+what is 1 line of code that can be an expression or several words?
+comment
+what statement starts with the hash character # ?
+list
+which data structure is a sequence that can be changed and wrapped in square brackets [] ?
+function
+What is a block of code that only runs when it is called?
+tuple
+which data structure is a sequence that cannot be changed and wrapped in parantheses () ?
+except
+which command catches the exception in a 'try' statement and returns it?
+import
+which command brings in an external module so its functions can be used in a particular script?
+return
+what outputs the value returned by a function and is usually the last step of a function?
+block
+what is a section of code which is grouped together with the same indents called?
+While
+what statement executes a block of code as long as its condition is True?
+parameter
+what is an argument that a function can accept called?
+text file
+what can we read from and write to within Python although the file is not Python?

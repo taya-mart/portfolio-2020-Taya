@@ -1,0 +1,3 @@
+This program is meant to be used as a game such as the original hangman.
+The user will simply provide input through letters to guess the word. 
+When the player wins or the hangman is hung, the game is over.
